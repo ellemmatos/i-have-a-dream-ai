@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="760" viewBox="0 0 760 760" role="img" aria-labelledby="diagram-title">
+  <title id="diagram-title">I Have A Dream AI Ecosystem</title>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1f2933" />
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="#fffaf2" />
+  <text x="380" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#1f2933">I Have A Dream AI Ecosystem</text>
+  <rect x="220" y="100" width="320" height="64" rx="12" fill="#f4f1ea" stroke="#1f2933" stroke-width="2" />
+  <text x="380.0" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f2933">AI Scrum Manager</text>
+  <rect x="220" y="256" width="320" height="64" rx="12" fill="#f4f1ea" stroke="#1f2933" stroke-width="2" />
+  <text x="380.0" y="294" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f2933">AI Content Factory</text>
+  <rect x="220" y="412" width="320" height="64" rx="12" fill="#f4f1ea" stroke="#1f2933" stroke-width="2" />
+  <text x="380.0" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f2933">AI Blog Engine</text>
+  <rect x="220" y="568" width="320" height="64" rx="12" fill="#f4f1ea" stroke="#1f2933" stroke-width="2" />
+  <text x="380.0" y="606" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f2933">Public Technical Storytelling</text>
+  <line x1="380.0" y1="164" x2="380.0" y2="238" stroke="#1f2933" stroke-width="3" marker-end="url(#arrowhead)" />
+  <line x1="380.0" y1="320" x2="380.0" y2="394" stroke="#1f2933" stroke-width="3" marker-end="url(#arrowhead)" />
+  <line x1="380.0" y1="476" x2="380.0" y2="550" stroke="#1f2933" stroke-width="3" marker-end="url(#arrowhead)" />
+</svg>
