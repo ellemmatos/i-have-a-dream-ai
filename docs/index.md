@@ -21,3 +21,5 @@ The goal is to transform commits, architecture changes, and delivery progress in
 - It analyzes technical changes and builds a narrative of the ecosystem journey.
 - Generated posts are published into `docs/_posts/` using a GitHub Pages publisher.
 - The site can be used to document both platform evolution and the developer journey.
+
+Test rebuild
