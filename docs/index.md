@@ -1,25 +1,18 @@
-﻿---
-layout: default
-title: I Have A Dream AI
----
-
 # I Have A Dream AI
 
-This GitHub Pages site documents the engineering journey of the I Have A Dream AI ecosystem.
+Welcome to my project.
 
-The blog is generated from repository activity across projects such as:
+This blog documents the development of my AI platform.
 
-- ai-blog-engine
-- ai-scrum-manager
-- ai-content-factory
+## Posts
 
-The goal is to transform commits, architecture changes, and delivery progress into professional build-in-public posts.
+- [First Post](posts/first-post.md)
 
-## How the site is populated
+## About
 
-- `ai-blog-engine` observes repository activity.
-- It analyzes technical changes and builds a narrative of the ecosystem journey.
-- Generated posts are published into `docs/_posts/` using a GitHub Pages publisher.
-- The site can be used to document both platform evolution and the developer journey.
+This project explores:
 
-Test rebuild
+- AI content generation
+- automation
+- social media engines
+- developer tools
